@@ -1,1 +1,1 @@
-# yapay_zeka
+# yapay_zeka dersi uygulamaları
